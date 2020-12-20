@@ -1,0 +1,264 @@
+.help-block {
+  color: red !important;
+}
+
+
+.container{
+width: 1440px;
+left: -1510px;
+top: -1223px;
+padding:100px 483px 0px 483px;
+
+}
+
+
+
+.pass1{
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 120%;
+color: #000000;
+}
+
+.pass2{
+position: static;
+width: 261px;
+height: 33px;
+left: 0px;
+top: 0px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+letter-spacing: 0.205em;
+color: #000000;
+}
+
+#password{
+background: #F2F2F2;
+border: 3px solid #000000;
+box-sizing: border-box;
+border-radius: 2px;
+}
+
+
+
+
+
+
+.pass3{
+position: static;
+height: 33px;
+left: 0px;
+top: 0px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+letter-spacing: 0.205em;
+}
+
+.pass4{
+padding:6px 125px 6px 100px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.205em;
+
+color: #FFFFFF;
+
+
+
+
+
+
+
+background: #000000;
+border-radius: 10px;
+
+
+}
+
+#title{
+background-color:#33A0D9;
+color:#000;
+height: 104px;
+width: 100vm;
+
+
+}
+a{
+color:#11999E;
+margin: 10px 10px;
+text-decoration:none;
+}
+
+
+
+#navbarTogglerDemo01{
+padding:30px 0px 0px 1300px;
+
+
+}
+#login{
+
+position: absolute;
+left: 92.15%;
+right: 2.85%;
+top: 24.04%;
+bottom: 24.04%;
+background: #FFFFFF;
+border-radius: 8px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+text-align: center;
+color: #000000;
+padding:0px 20px 0px 20px;
+}
+
+p{
+display: inline;
+}
+
+.race{
+position: absolute;
+left: 54.1%;
+right: 34.51%;
+top: 34.62%;
+bottom: 34.62%;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+text-align: center;
+
+/* Button */
+
+color: #000000
+
+}
+
+.lead{
+position: absolute;
+left: 70.76%;
+right: 18.12%;
+top: 34.62%;
+bottom: 34.62%;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+text-align: center;
+color: #000000;
+}
+
+
+
+
+.bottom-container{
+background-color:#2180B3;
+padding:20px 0 20px;
+border-collapse: collapse;
+}
+
+
+    
+
+
+
+
+
+.about{
+position: static;
+width: 108px;
+height: 36px;
+left: 10px;
+top: 10px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 49px 0px;
+padding:10px 0px 0px 100px ;
+}
+
+.privacy{
+position: static;
+width: 160px;
+height: 36px;
+left: 167px;
+top: 10px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 49px 0px;
+padding: 10px 0px 0px 100px;
+}
+
+
+.tuto{
+position: static;
+width: 100px;
+height: 36px;
+left: 376px;
+top: 10px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+color: #FFFFFF;
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 49px 0px;
+padding:10px 0px 0px 100px;
+}
+
+.terms{
+position: static;
+width: 191px;
+height: 36px;
+left: 525px;
+top: 10px;
+font-family: Avenir Next;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 150%;
+color: #FFFFFF;
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 49px 0px;
+padding:10px 0px 0px 100px;
+
+}
+
+
